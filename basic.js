@@ -1,2 +1,7 @@
 let a=10;
-console.log(a);
+if(a>=100){
+    console.log("true");
+    
+}else{
+    console.log("false");
+}
